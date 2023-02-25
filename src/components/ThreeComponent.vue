@@ -460,11 +460,13 @@ export default {
   position: relative;
   left: -20px;
   padding: 15px 0;
+  
 }
 
 .vertice-span {
   line-height: 38px;
   padding: 0 2px 0 10px;
+
 }
 </style>
 
